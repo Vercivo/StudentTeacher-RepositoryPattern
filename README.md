@@ -1,6 +1,7 @@
 # Project Name: StudentTeacher (Repository Pattern)
 
-This is my second project implementing the **Repository Pattern**.
+This is my second project implementing the **Repository Pattern**.  
+It is a **learning project** aimed at understanding and practicing the Repository Pattern.
 
 ## Technologies Used
 - **.Net 8**
